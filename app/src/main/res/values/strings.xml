@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">latihan-networking</string>
+    <string name="car_by_id">Id: %1$d\nnamme: %2$s\nprice: %3$d</string>
+</resources>
